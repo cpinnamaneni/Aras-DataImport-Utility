@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>ArasDataImport.exe -user=emd2342 -p=emd2342 -db="InnNMC_20180722" -url="http://amrnmcvdap16.nmca.org/Inn11SP6TestServer" -error_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\error_file_latest1.txt" -input_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\inputfile.txt" -log_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\log_file_latest1.log" -tech_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\tech_file_latest1.log"</StartArguments>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-user=root -p=innovator -db="Aras11SP14" -url="http://localhost/InnovatorServer11SP14" -error_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\error_file.txt" -input_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\inputfile.txt" -log_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\log_file.log" -tech_file="C:\Chaitanya\Offical\Projects\Niedec\NewDataImport\Chaitanya\tech_file.log"</StartArguments>
+  </PropertyGroup>
+</Project>

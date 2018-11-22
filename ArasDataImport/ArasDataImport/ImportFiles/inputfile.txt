@@ -1,0 +1,4 @@
+item_number~major_rev~legacy_revision~state~company_nbr_scheme~classification~description~File1~File2~File3
+12K0060~-~REV 0~Baseline~KRDC Ft. Wayne~Mechanical/Drawing~Rotor stack~12K0060 - REV 0.PDF~12K0060 - REV 0.SLDDRW~12K0060 - REV 0.SLDPRT
+12K0060~A~REV A~Released~KRDC Ft. Wayne~Mechanical/Drawing~~12K0060 - REV A.PDF~12K0060 - REV A.SLDDRW~12K0060 - REV A.SLDPRT
+12K0060~B~REV B~Released~KRDC Ft. Wayne~Mechanical/Drawing~~12K0060 - REV B.PDF~12K0060 - REV B.SLDDRW~12K0060 - REV B.SLDPRT
